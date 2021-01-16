@@ -1,0 +1,28 @@
+
+body{
+    background-image: url("imagens/fundo.png");
+}
+.container{
+    width: 900px;
+}
+menu{
+    padding: 30px;
+    background-color: rgb(204, 191, 174);
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #4b566a;
+    padding: 10px;
+}
+.conteudo{
+    background-color:beige;
+    padding: 10px;
+}
+.conteudo h1{
+    color: rgb(133, 133, 90);
+}
+.centralizar{
+    text-align: center;
+}
